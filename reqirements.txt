@@ -1,0 +1,10 @@
+autogen-agentchat
+autogen-ext[openai]
+python-dotenv
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+google-search-results
+docker
+autogen-ext[docker]
